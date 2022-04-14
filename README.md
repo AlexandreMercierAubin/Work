@@ -1,7 +1,7 @@
 ---
 layout: home
 list_title: Contributions
-title: ''
+title: 'My Work'
 ---
 
 ## Welcome to GitHub Pages
