@@ -20,3 +20,5 @@ relative_links:
   
 header_pages:
   - about.md
+footer_pages:
+  - about.md
