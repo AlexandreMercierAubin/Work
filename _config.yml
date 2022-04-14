@@ -9,6 +9,6 @@ url: 'https://alexandremercieraubin.com'
 permalink: /:collection/:year-:month-:day-:title:output_ext
 show_excerpts: true
 
-theme: minima
+theme: jekyll-theme-tactile
 plugins:
   - jekyll-feed
