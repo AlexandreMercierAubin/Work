@@ -9,7 +9,7 @@ url: 'https://alexandremercieraubin.com'
 permalink: /:collection/:year-:month-:day-:title:output_ext
 show_excerpts: true
 
-theme: jekyll-theme-slate
+theme: slate
 plugins:
   - jekyll-feed
   - jekyll-relative-links
