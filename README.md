@@ -1,3 +1,9 @@
+---
+layout: home
+list_title: Contributions
+title: ''
+---
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/AlexandreMercierAubin/MyWork/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
