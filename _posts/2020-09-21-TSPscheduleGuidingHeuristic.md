@@ -12,7 +12,10 @@ categories: jekyll blogging
 [<img src="https://alexandremercieraubin.com/MyWork/icons/link.png" width="25"/>](https://link.springer.com/chapter/10.1007/978-3-030-58942-4_22)
 
 ## Video
-<iframe width="560" height="315" src="https://youtu.be/UbolTOF_r8w" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UbolTOF_r8w" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+## Authors
+Alexandre Mercier-Aubin, Ludwig Dumetz, Jonathan Gaudreault and Claude-Guy Quimper
 
 ## Bibtex
 ```

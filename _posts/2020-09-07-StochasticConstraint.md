@@ -1,7 +1,6 @@
 ---
 layout: post
-title: "Leveraging Constraint Scheduling: A Case Study
-to the Textile Industry"
+title: "The CONFIDENCE Constraint: A Step Towards Stochastic CP Solvers"
 date: 2020-09-07
 categories: jekyll blogging
 ---
@@ -22,7 +21,10 @@ industry show that we obtain non-optimal but satisfactory solutions.
 [<img src="https://alexandremercieraubin.com/MyWork/icons/link.png" width="25"/>](https://link.springer.com/chapter/10.1007/978-3-030-58475-7_44)
 
 ## Video
-<iframe width="560" height="315" src="https://youtu.be/dC72_1jTPGs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dC72_1jTPGs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+## Authors
+Alexandre Mercier-Aubin, Jonathan Gaudreault and Claude-Guy Quimper
 
 ## Bibtex
 ```
