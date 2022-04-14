@@ -1,6 +1,6 @@
-title: My Work
+title: Work
 description: >- # this means to ignore newlines until "baseurl:"
-  This is a section where I will keep posting my most recent contributions to science
+  Section to list contributions
 baseurl: "/MyWork/"
 
 github_username: alexandremercieraubin
