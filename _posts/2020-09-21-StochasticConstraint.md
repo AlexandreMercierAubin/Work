@@ -2,7 +2,12 @@
 layout: post
 title: "The CONFIDENCE Constraint: A Step Towards Stochastic CP Solvers"
 date: 2020-09-21
-categories: jekyll blogging
+categories:
+  - Papers
+tags:
+  - Constraint
+  - Combinatorics
+  - Stochastic Optimization
 ---
 
 **Abstract:** We introduce the CONFIDENCE constraint, a chance constraint that ensures, with probability γ, that a set of variables are no smaller than random variables for which the probability distribution is given. This constraint is useful in stochastic optimization to ensure that a solution is robust to external random events. It allows to control the trade-off between optimizing the objective function and ensuring the satisfiability of the solution under random parameters. We present a filtering algorithm for this constraint with explanations. We apply the constraint to a case study, an industrial scheduling problem where tasks have random processing times due to possible breakdowns during their execution. We evaluate our solutions with simulations and show that this new constraint allows robust solutions in decent computation time.

@@ -1,20 +1,9 @@
-# frozen_string_literal: true
-
 source "https://rubygems.org"
 
-# gem "rails"
+gem "github-pages", group: :jekyll_plugins
+gem "jekyll-remote-theme"
+gem "jekyll-theme-so-simple"
 
-gem "minima", "~> 2.5"
-
-gem "github-pages", "~> 214", group: :jekyll_plugins
-group :jekyll_plugins do
-  gem "jekyll-feed", "~> 0.9"
-end
-
-platforms :mingw, :x64_mingw, :mswin, :jruby do
-  gem "tzinfo", "~> 1.2"
-  gem "tzinfo-data"
-end
-
-gem 'wdm', '>= 0.1.0' 
+# Performance-booster for watching directories on Windows
+gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 gem 'webrick'

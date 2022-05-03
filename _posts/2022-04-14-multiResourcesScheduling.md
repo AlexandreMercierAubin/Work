@@ -2,7 +2,12 @@
 layout: post
 title: "Multi-Resource Scheduling with Setup Times: An Application Case to the Textile Industry"
 date: 2019-09-30
-categories: jekyll blogging
+categories:
+  - Worksop
+tags:
+  - Traveling Salesman Problem
+  - Constraint
+  - Combinatorics
 ---
 
 In the textile industry, the looms are now automatic, but

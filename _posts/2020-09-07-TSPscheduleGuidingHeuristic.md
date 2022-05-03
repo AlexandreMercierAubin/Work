@@ -3,7 +3,12 @@ layout: post
 title: "Leveraging Constraint Scheduling: A Case Study
 to the Textile Industry"
 date: 2020-09-07
-categories: jekyll blogging
+categories:
+  - Papers
+tags:
+  - Traveling Salesman Problem
+  - Constraint
+  - Combinatorics
 ---
 
 **Abstract:** Despite the significant progress made in scheduling in the
