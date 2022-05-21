@@ -4,7 +4,7 @@ locale: en-US
 title: "Work"
 subtitle: "" 
 description: ""
-baseurl: "/MyWork"
+baseurl: "/Work"
 github_username: alexandremercieraubin
 url: 'https://alexandremercieraubin.com'
 #logo: "/images/logo.jpg"
