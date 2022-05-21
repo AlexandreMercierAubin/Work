@@ -18,7 +18,6 @@ use_math: true
 [<img src="https://alexandremercieraubin.com/MyWork/icons/github.png" width="25"/>](https://github.com/AlexandreMercierAubin/AdaptiveRigidification2022)
 
 ## Video
-{:style="text-align:center;"}
 <iframe width="560" height="315" style="display: block; margin: auto;" src="https://www.youtube.com/embed/BqgQrtgLDuw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## Authors
