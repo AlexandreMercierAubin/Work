@@ -13,9 +13,9 @@ use_math: true
 <!-- real will not add it to the build so I need something earlier for now date: 2022-08-08 -->
 **Abstract:** We present a method for reducing the computational cost of elastic solid simulation by treating connected sets of non-deforming elements  as rigid bodies.  Non-deforming elements are identified as those where the strain rate squared Frobenius norm falls below a threshold for several frames. Rigidification uses a breadth first search to identify connected components while avoiding connections that would form hinges between rigid components.  Rigid elements become elastic again when their approximate strain velocity rises above a threshold, which is fast to compute using a single iteration of conjugate gradient with a fixed Laplacian-based incomplete Cholesky preconditioner.  With rigidification, the system size to solve at each time step can be greatly reduced, and if all elastic element become rigid, it reduces to solving the rigid body system.  We demonstrate our results on a variety of 2D and 3D examples, and show that our method is likewise especially beneficial in contact rich examples.
 
-[<img src="https://alexandremercieraubin.com/MyWork/icons/pdf.png" width="25"/>](https://alexandremercieraubin.com/MyWork/papers/SIGGRAPH2022AdaptiveRigidification.pdf)
-[<img src="https://alexandremercieraubin.com/MyWork/icons/link.png" width="25"/>](https://s2022.siggraph.org/)
-[<img src="https://alexandremercieraubin.com/MyWork/icons/github.png" width="25"/>](https://github.com/AlexandreMercierAubin/AdaptiveRigidification2022)
+[<img src="/icons/pdf.png" width="25"/>](/papers/SIGGRAPH2022AdaptiveRigidification.pdf)
+[<img src="/icons/link.png" width="25"/>](https://s2022.siggraph.org/)
+[<img src="/icons/github.png" width="25"/>](https://github.com/AlexandreMercierAubin/AdaptiveRigidification2022)
 
 ## Video
 <iframe width="560" height="315" style="display: block; margin: auto;" src="https://www.youtube.com/embed/BqgQrtgLDuw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
