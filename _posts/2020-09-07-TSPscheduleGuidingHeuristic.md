@@ -23,8 +23,8 @@ branching heuristics. We also explore large neighborhood search. Experiments
 conducted on a dataset provided by our partner from the textile
 industry show that we obtain non-optimal but satisfactory solutions.
 
-[<img src="/icons/pdf.png" width="25"/>](/papers/CPAIOR2020TspSchedule.pdf)
-[<img src="/icons/link.png" width="25"/>](https://link.springer.com/chapter/10.1007/978-3-030-58942-4_22)
+[<img src="/Work/icons/pdf.png" width="25"/>](/Work/papers/CPAIOR2020TspSchedule.pdf)
+[<img src="/Work/icons/link.png" width="25"/>](https://link.springer.com/chapter/10.1007/978-3-030-58942-4_22)
 
 ## Video
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dC72_1jTPGs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
