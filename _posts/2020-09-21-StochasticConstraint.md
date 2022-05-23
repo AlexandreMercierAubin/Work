@@ -15,6 +15,7 @@ tags:
 
 [<img src="/Work/icons/pdf.png" width="25"/>](/Work/papers/CP2020ConfidenceConstraint.pdf)
 [<img src="/Work/icons/link.png" width="25"/>](https://link.springer.com/chapter/10.1007/978-3-030-58475-7_44)
+[<img src="/Work/icons/github.png" width="25"/>](https://github.com/AlexandreMercierAubin/Confidence-Constraint-CPAIOR2020)
 
 ## Video
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UbolTOF_r8w" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

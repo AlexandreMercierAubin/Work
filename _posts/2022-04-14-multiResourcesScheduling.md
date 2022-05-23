@@ -3,7 +3,7 @@ layout: post
 title: "Multi-Resource Scheduling with Setup Times: An Application Case to the Textile Industry"
 date: 2019-09-30
 categories:
-  - Worksop
+  - Workshop
 tags:
   - Traveling Salesman Problem
   - Constraint

@@ -33,6 +33,10 @@ industry show that we obtain non-optimal but satisfactory solutions.
 ## Authors
 Alexandre Mercier-Aubin, Jonathan Gaudreault and Claude-Guy Quimper
 
+## Copyrights and Data
+Sadly Claude-Guy is still in the process of releasing the code for this paper. 
+We will hopefully be able to provide it at some point, but this is out of my hands at the moment.
+
 ## Bibtex
 ```
 @InProceedings{10.1007/978-3-030-58942-4_22,
