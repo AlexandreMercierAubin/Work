@@ -22,6 +22,16 @@ tags:
 ## Authors
 Alexandre Mercier-Aubin, Ludwig Dumetz, Jonathan Gaudreault and Claude-Guy Quimper
 
+## FAQ
+The constraint offers a single solution that satisfies the risk thresholds with respect to probabilistic distributions. In the paper we used a Poisson distribution, although the algorithm is compatible with the distribution of your choice.
+The constraint itself is not a policy, it will not adapt to a failed schedule. The Chance constraint should instead be considered as a fast filtering algorithm of risky solutions.
+
+The risk of the first task causing a breakdown on a loom will most definitely create more problems (delays) than it happening for the last task. 
+The delays ripple over a single loom, but also over the others because of resources starving. 
+This is what we call the ripple effect. 
+The chance constraint can be used to handle such cases as explained in the paper.
+
+
 ## Bibtex
 ```
 @InProceedings{10.1007/978-3-030-58475-7_44,
