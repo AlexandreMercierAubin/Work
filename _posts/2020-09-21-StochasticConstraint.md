@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The CONFIDENCE Constraint: A Step Towards Stochastic CP Solvers"
+image: /images/2020-09-21-StochasticConstraint/chance.jpg
 date: 2020-09-21
 categories:
   - Papers

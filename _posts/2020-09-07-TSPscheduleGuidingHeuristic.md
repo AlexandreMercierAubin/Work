@@ -2,6 +2,7 @@
 layout: post
 title: "Leveraging Constraint Scheduling: A Case Study
 to the Textile Industry"
+image: /images/2020-09-07-TSPscheduleGuidingHeuristic/machineTextile.jpg
 date: 2020-09-07
 categories:
   - Papers
