@@ -100,7 +100,7 @@ We use an adjacency graph for tetrahedral elements with shared faces (or with sh
 </figure>
 
 There are two possibilities to handle the case where rigid
-bodies share a vertex. One can add hinge constraints,
+bodies share a vertex. One can add hinge constraints;
 this will slow down the time integration. We instead
 choose to make our BFS greedy, the first rigid element to
 touch a vertex (edge in 3D) claims it. Note that when this
@@ -159,6 +159,6 @@ author = {Mercier-Aubin, Alexandre and Winter, Alexander and I.W. Levin, David a
 title = {Adaptive Rigidification of Elastic Solids},
 year = {2022},
 optpublisher = {Association for Computing Machinery},
-journal = {conditionally accepted to ACM Trans. Graph.},
+journal = {Accepted for publication to ACM Trans. Graph.},
 }
 ```
