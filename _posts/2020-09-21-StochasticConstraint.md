@@ -18,7 +18,7 @@ tags:
 [<img src="/Work/icons/github.png" width="25"/>](https://github.com/AlexandreMercierAubin/Confidence-Constraint-CPAIOR2020)
 
 ## Video
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UbolTOF_r8w" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" style="display: block; margin: auto;" src="https://www.youtube.com/embed/UbolTOF_r8w" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## Authors
 Alexandre Mercier-Aubin, Ludwig Dumetz, Jonathan Gaudreault and Claude-Guy Quimper
