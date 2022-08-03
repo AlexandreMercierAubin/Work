@@ -154,11 +154,23 @@ Our technique works like sleeping on static bodies, yet it really shines in scen
 
 ## Bibtex
 ```
-@article{MA2022,
-author = {Mercier-Aubin, Alexandre and Winter, Alexander and I.W. Levin, David and Kry, Paul},
+@article{AdaptiveRigidification,
+author = {Mercier-Aubin, Alexandre and Kry, Paul G. and Winter, Alexandre and Levin, David I. W.},
 title = {Adaptive Rigidification of Elastic Solids},
 year = {2022},
-optpublisher = {Association for Computing Machinery},
-journal = {Accepted for publication to ACM Trans. Graph.},
+issue_date = {July 2022},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+volume = {41},
+number = {4},
+issn = {0730-0301},
+url = {https://doi-org.proxy3.library.mcgill.ca/10.1145/3528223.3530124},
+doi = {10.1145/3528223.3530124},
+abstract = {We present a method for reducing the computational cost of elastic solid simulation by treating connected sets of non-deforming elements as rigid bodies. Non-deforming elements are identified as those where the strain rate squared Frobenius norm falls below a threshold for several frames. Rigidification uses a breadth first search to identify connected components while avoiding connections that would form hinges between rigid components. Rigid elements become elastic again when their approximate strain velocity rises above a threshold, which is fast to compute using a single iteration of conjugate gradient with a fixed Laplacian-based incomplete Cholesky preconditioner. With rigidification, the system size to solve at each time step can be greatly reduced, and if all elastic element become rigid, it reduces to solving the rigid body system. We demonstrate our results on a variety of 2D and 3D examples, and show that our method is likewise especially beneficial in contact rich examples.},
+journal = {ACM Trans. Graph.},
+month = {jul},
+articleno = {71},
+numpages = {11},
+keywords = {adaptive, finite element method, physics simulation, rigid bodies}
 }
 ```
