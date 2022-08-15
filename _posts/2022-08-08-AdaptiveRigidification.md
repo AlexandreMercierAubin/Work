@@ -2,7 +2,7 @@
 layout: post
 title: "Adaptive Rigidification of Elastic Solids"
 image: /images/2022-08-08-AdaptiveRigidification/teaser_wheel.png
-date: 2022-04-19
+date: 2022-08-08
 categories:
   - Papers
 tags:
@@ -10,8 +10,7 @@ tags:
   - Adaptive Rigidification
 use_math: true
 ---
-<!-- real will not add it to the build so I need something earlier for now date: 2022-08-08 -->
-**Abstract:** We present a method for reducing the computational cost of elastic solid simulation by treating connected sets of non-deforming elements  as rigid bodies.  Non-deforming elements are identified as those where the strain rate squared Frobenius norm falls below a threshold for several frames. Rigidification uses a breadth first search to identify connected components while avoiding connections that would form hinges between rigid components.  Rigid elements become elastic again when their approximate strain velocity rises above a threshold, which is fast to compute using a single iteration of conjugate gradient with a fixed Laplacian-based incomplete Cholesky preconditioner.  With rigidification, the system size to solve at each time step can be greatly reduced, and if all elastic element become rigid, it reduces to solving the rigid body system.  We demonstrate our results on a variety of 2D and 3D examples, and show that our method is likewise especially beneficial in contact rich examples.
+<img align="left" src="/images/2022-08-08-AdaptiveRigidification/representative.jpg">**Abstract:** We present a method for reducing the computational cost of elastic solid simulation by treating connected sets of non-deforming elements  as rigid bodies.  Non-deforming elements are identified as those where the strain rate squared Frobenius norm falls below a threshold for several frames. Rigidification uses a breadth first search to identify connected components while avoiding connections that would form hinges between rigid components.  Rigid elements become elastic again when their approximate strain velocity rises above a threshold, which is fast to compute using a single iteration of conjugate gradient with a fixed Laplacian-based incomplete Cholesky preconditioner.  With rigidification, the system size to solve at each time step can be greatly reduced, and if all elastic element become rigid, it reduces to solving the rigid body system.  We demonstrate our results on a variety of 2D and 3D examples, and show that our method is likewise especially beneficial in contact rich examples.
 
 [<img src="/Work/icons/pdf.png" width="25"/>](/Work/papers/SIGGRAPH2022AdaptiveRigidification.pdf)
 [<img src="/Work/icons/link.png" width="25"/>](https://doi.org/10.1145/3528223.3530124)
