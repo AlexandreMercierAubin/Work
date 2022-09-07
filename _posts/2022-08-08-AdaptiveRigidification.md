@@ -156,11 +156,12 @@ still dangling.</figcaption>
 Our technique works like sleeping on static bodies, yet it really shines in scenes with local deformation. This effectively reduces the size of the system to solve from $3n$ vertices to exactly 6 degrees of freedom for a rigidified chunk of the models. As the time to solve is dependent on the degrees of freedom in the full system, this significantly reduces the computation time of the simulation.
 
 #### See our paper for more details and results
+[code](https://github.com/AlexandreMercierAubin/AdaptiveRigidification2022)
 
 ## Bibtex
 ```
-@article{AdaptiveRigidification,
-author = {Mercier-Aubin, Alexandre and Kry, Paul G. and Winter, Alexandre and Levin, David I. W.},
+@article{10.1145/3528223.3530124,
+author = {Mercier-Aubin, Alexandre and Winter, Alexandre and Levin, David I. W. and Kry, Paul G.},
 title = {Adaptive Rigidification of Elastic Solids},
 year = {2022},
 issue_date = {July 2022},
@@ -176,6 +177,6 @@ journal = {ACM Trans. Graph.},
 month = {jul},
 articleno = {71},
 numpages = {11},
-keywords = {adaptive, finite element method, physics simulation, rigid bodies}
+keywords = {physics simulation, adaptive, rigid bodies, finite element method}
 }
 ```
