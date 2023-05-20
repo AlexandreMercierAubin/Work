@@ -17,7 +17,7 @@ use_math: true
 [<img src="/Work/icons/github.png" width="25"/>](https://github.com/AlexandreMercierAubin/AdaptiveRigidification2022)
 
 ## Installation
-<iframe width="560" height="315" style="display: block; margin: auto;" src="https://www.youtube.com/embed/oLBHXD2y8Tk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" style="display: block; margin: auto;" src="https://www.youtube.com/embed/soxEZxP9zFc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## Full Presentation
 <iframe width="560" height="315" style="display: block; margin: auto;" src="https://www.youtube.com/embed/mgxGp_U1H_I" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
