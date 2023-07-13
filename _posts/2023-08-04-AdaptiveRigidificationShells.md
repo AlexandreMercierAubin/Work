@@ -165,7 +165,7 @@ Our technique works like sleeping on static bodies, yet it really shines in scen
 
 ## Bibtex TODO: change it with the actual articleno once released
 ```
-@proceedings{10.1145/3528223.3530124,
+@proceedings{10.1145/3606932,
 author = {Mercier-Aubin, Alexandre and Kry, Paul G.},
 title = {Adaptive Rigidification of Discrete Shells},
 year = {2023},
@@ -174,7 +174,7 @@ publisher = {Association for Computing Machinery},
 address = {New York, NY, USA},
 volume = {6},
 number = {2},
-url = {https://dl.acm.org/doi/abs/10.1145/3528223.3530124},
+url = {https://dl.acm.org/doi/abs/10.1145/3606932},
 doi = {10.1145/3606932},
 abstract = {We present a method to improve the computation time of thin shell simulations by using adaptive rigidification to reduce the number of degrees of freedom. Our method uses a discretization independent metric for bending rates, and we derive a membrane strain rate to curvature rate equivalence that permits the use of a common threshold.
 To improve accuracy, we enhance the elastification oracle by considering both membrane and bending deformation to determine when to rigidify or elastify. Furthermore, we explore different approaches that are compatible with the previous work on adaptive rigidifcation and enhance the accuracy of the elastification on new contacts without increasing the computational overhead. Additionally, we propose a scaling approach that reduces the conditioning issues that arise from mixing rigid and elastic bodies in the same model.},
