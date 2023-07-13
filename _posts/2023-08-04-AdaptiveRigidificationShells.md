@@ -2,12 +2,13 @@
 layout: post
 title: "Adaptive Rigidification of Discrete Shells"
 image: /images/2023-08-04-AdaptiveRigidificationShells/teaser.png
-date: 2023-08-04
+date: 2023-07-04
 categories:
   - Papers
 tags:
   - Constraint
   - Adaptive Rigidification
+  - Shells
 use_math: true
 ---
 **Abstract:** We present a method to improve the computation time of thin shell simulations by using adaptive rigidification to reduce the number of degrees of freedom. Our method uses a discretization independent metric for bending rates, and we derive a membrane strain rate to curvature rate equivalence that permits the use of a common threshold.
@@ -160,7 +161,7 @@ still dangling.</figcaption>
 Our technique works like sleeping on static bodies, yet it really shines in scenes with local deformation. This effectively reduces the size of the system to solve from $3n$ vertices to exactly 6 degrees of freedom for a rigidified chunk of the models. As the time to solve is dependent on the degrees of freedom in the full system, this significantly reduces the computation time of the simulation.
 -->
 #### See our paper for more details and results
-[code](https://github.com/AlexandreMercierAubin/AdaptiveRigidification2022)
+[click here for the code if you missed the two github buttons](https://github.com/AlexandreMercierAubin/AdaptiveRigidification2022)
 
 ## Bibtex TODO: change it with the actual articleno once released
 ```
