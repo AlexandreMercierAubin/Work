@@ -30,7 +30,7 @@ To be recorded and released
 <iframe width="560" height="315" style="display: block; margin: auto;" src="https://www.youtube.com/embed/JFHeRrgieLM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## Embedded paper
- <embed width="560" height="315" src="/Work/papers/SCA2023AdaptiveShells.pdf" type="application/pdf" />
+ <embed width="560" height="315" style="display: block; margin: auto;" src="/Work/papers/SCA2023AdaptiveShells.pdf" type="application/pdf" />
 
 ## Authors
 Alexandre Mercier-Aubin, and Paul G. Kry

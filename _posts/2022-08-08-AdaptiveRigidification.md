@@ -25,6 +25,9 @@ use_math: true
 ## Supplementals Video
 <iframe width="560" height="315" style="display: block; margin: auto;" src="https://www.youtube.com/embed/BqgQrtgLDuw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
+## Embedded paper
+<embed width="560" height="315" style="display: block; margin: auto;" src="/Work/papers/SIGGRAPH2022AdaptiveRigidification.pdf" type="application/pdf" />
+
 ## Authors
 Alexandre Mercier-Aubin, Alexander Winter, David I.W. Levin, and Paul G. Kry
 
