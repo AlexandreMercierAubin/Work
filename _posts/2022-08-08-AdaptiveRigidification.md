@@ -6,7 +6,10 @@ date: 2022-08-08
 categories:
   - Papers
 tags:
-  - Constraint
+  - Simulation
+  - Finite Element
+  - Contact
+  - Approximations
   - Adaptive Rigidification
 use_math: true
 ---
@@ -22,14 +25,14 @@ use_math: true
 ## Full Presentation
 <iframe width="560" height="315" style="display: block; margin: auto;" src="https://www.youtube.com/embed/mgxGp_U1H_I" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-## Supplementals Video
+## Supplemental Video
 <iframe width="560" height="315" style="display: block; margin: auto;" src="https://www.youtube.com/embed/BqgQrtgLDuw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-## Embedded paper
-<embed width="560" height="315" style="display: block; margin: auto;" src="/Work/papers/SIGGRAPH2022AdaptiveRigidification.pdf" type="application/pdf" />
 
 ## Authors
 Alexandre Mercier-Aubin, Alexander Winter, David I.W. Levin, and Paul G. Kry
+
+## Embedded paper
+<embed width="560" height="315" style="display: block; margin: auto;" src="/Work/papers/SIGGRAPH2022AdaptiveRigidification.pdf" type="application/pdf" />
 
 ## Summarized Version
  Here is a summarized version of this paper. The pre-print can be downloaded using the link above.

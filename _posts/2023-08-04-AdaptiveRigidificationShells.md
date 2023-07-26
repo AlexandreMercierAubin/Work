@@ -6,7 +6,10 @@ date: 2023-07-04
 categories:
   - Papers
 tags:
-  - Constraint
+  - Simulation
+  - Finite Element
+  - Contact
+  - Approximations
   - Adaptive Rigidification
   - Shells
 use_math: true
@@ -26,16 +29,16 @@ To improve accuracy, we enhance the elastification oracle by considering both me
 To be recorded and released
 <!--iframe width="560" height="315" style="display: block; margin: auto;" src="https://www.youtube.com/embed/mgxGp_U1H_I" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe-->
 
-## Supplementals Video
+## Supplemental Video
 <iframe width="560" height="315" style="display: block; margin: auto;" src="https://www.youtube.com/embed/JFHeRrgieLM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-## Embedded paper
- <embed width="560" height="315" style="display: block; margin: auto;" src="/Work/papers/SCA2023AdaptiveShells.pdf" type="application/pdf" />
 
 ## Authors
 Alexandre Mercier-Aubin, and Paul G. Kry
 
-#### See our paper for more details and results
+## Embedded paper
+ <embed width="560" height="315" style="display: block; margin: auto;" src="/Work/papers/SCA2023AdaptiveShells.pdf" type="application/pdf" />
+
+#### Github link
 [click here for the code if you missed the two github buttons](https://github.com/AlexandreMercierAubin/AdaptiveRigidificationShells2023)
 
 ## Bibtex TODO: change it with the actual articleno once released
