@@ -27,7 +27,7 @@ To improve accuracy, we enhance the elastification oracle by considering both me
 
 ## Full Presentation
 To be recorded and released
-<!--iframe width="560" height="315" style="display: block; margin: auto;" src="https://www.youtube.com/embed/mgxGp_U1H_I" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe-->
+<iframe width="560" height="315" style="display: block; margin: auto;" src="https://www.youtube.com/embed/DKJwCDbDJl8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## Supplemental Video
 <iframe width="560" height="315" style="display: block; margin: auto;" src="https://www.youtube.com/embed/JFHeRrgieLM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
