@@ -2,7 +2,7 @@
 layout: post
 title: "Adaptive Rigidification of Discrete Shells"
 image: /images/2023-08-04-AdaptiveRigidificationShells/teaser.png
-date: 2023-07-04
+date: 2023-08-05
 categories:
   - Papers
 tags:
@@ -26,8 +26,7 @@ To improve accuracy, we enhance the elastification oracle by considering both me
 <iframe width="560" height="315" style="display: block; margin: auto;" src="https://www.youtube.com/embed/soxEZxP9zFc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## Full Presentation
-To be recorded and released
-<iframe width="560" height="315" style="display: block; margin: auto;" src="https://www.youtube.com/embed/DKJwCDbDJl8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" style="display: block; margin: auto;" src="https://www.youtube.com/embed/oMPXLxo2W9c" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## Supplemental Video
 <iframe width="560" height="315" style="display: block; margin: auto;" src="https://www.youtube.com/embed/JFHeRrgieLM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
@@ -41,7 +40,7 @@ Alexandre Mercier-Aubin, and Paul G. Kry
 #### Github link
 [click here for the code if you missed the two github buttons](https://github.com/AlexandreMercierAubin/AdaptiveRigidificationShells2023)
 
-## Bibtex TODO: change it with the actual articleno once released
+## Bibtex
 ```
 @proceedings{10.1145/3606932,
 author = {Mercier-Aubin, Alexandre and Kry, Paul G.},
