@@ -42,7 +42,7 @@ Alexandre Mercier-Aubin, and Paul G. Kry
 
 ## Bibtex
 ```
-@proceedings{10.1145/3606932,
+@article{10.1145/3606932,
 author = {Mercier-Aubin, Alexandre and Kry, Paul G.},
 title = {Adaptive Rigidification of Discrete Shells},
 year = {2023},
@@ -50,15 +50,14 @@ issue_date = {August 2023},
 publisher = {Association for Computing Machinery},
 address = {New York, NY, USA},
 volume = {6},
-number = {2},
-url = {https://dl.acm.org/doi/abs/10.1145/3606932},
+number = {3},
+url = {https://doi.org/10.1145/3606932},
 doi = {10.1145/3606932},
-abstract = {We present a method to improve the computation time of thin shell simulations by using adaptive rigidification to reduce the number of degrees of freedom. Our method uses a discretization independent metric for bending rates, and we derive a membrane strain rate to curvature rate equivalence that permits the use of a common threshold.
-To improve accuracy, we enhance the elastification oracle by considering both membrane and bending deformation to determine when to rigidify or elastify. Furthermore, we explore different approaches that are compatible with the previous work on adaptive rigidifcation and enhance the accuracy of the elastification on new contacts without increasing the computational overhead. Additionally, we propose a scaling approach that reduces the conditioning issues that arise from mixing rigid and elastic bodies in the same model.},
-journal = {ACM Comput. Graph. Interact. Tech.},
-month = {Aug},
-articleno = {1},
+abstract = {We present a method to improve the computation time of thin shell simulations by using adaptive rigidification to reduce the number of degrees of freedom. Our method uses a discretization independent metric for bending rates, and we derive a membrane strain rate to curvature rate equivalence that permits the use of a common threshold. To improve accuracy, we enhance the elastification oracle by considering both membrane and bending deformation to determine when to rigidify or elastify. Furthermore, we explore different approaches that are compatible with the previous work on adaptive rigidifcation and enhance the accuracy of the elastification on new contacts without increasing the computational overhead. Additionally, we propose a scaling approach that reduces the conditioning issues that arise from mixing rigid and elastic bodies in the same model.},
+journal = {Proc. ACM Comput. Graph. Interact. Tech.},
+month = {aug},
+articleno = {39},
 numpages = {17},
-keywords = {cloth, shells, adaptive simulation, rigid bodies, finite element}
+keywords = {cloth, finite element, rigid bodies, adaptive simulation, shells}
 }
 ```
