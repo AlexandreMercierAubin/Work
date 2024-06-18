@@ -167,7 +167,7 @@ Our technique works like sleeping on static bodies, yet it really shines in scen
 ## Bibtex
 ```
 @InProceedings{10.1145/3528223.3530124,
-author = {Mercier-Aubin, Alexandre and Winter, Alexandre and Levin, David I. W. and Kry, Paul G.},
+author = {Mercier-Aubin, Alexandre and Kry, Paul G. and Winter, Alexandre and Levin, David I. W.},
 title = {Adaptive Rigidification of Elastic Solids},
 year = {2022},
 issue_date = {July 2022},
