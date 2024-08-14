@@ -17,9 +17,18 @@ use_math: true
 
 Accepted for publication at SCA 2024. Here is the preprint. I will update the page as we get closer to the conference (August).
 [<img src="/Work/icons/pdf.png" width="25"/>](/Work/papers/SCA2024MultiLayerXPBD.pdf)
-
+[<img src="/Work/icons/link.png" width="25"/>]()
+[<img src="/Work/icons/github.png" width="25"/>](https://github.com/AlexandreMercierAubin/MultiLayerSolver2024)
 ## Authors
 Alexandre Mercier-Aubin, and Paul G. Kry
 
 ## Embedded paper
  <embed width="560" height="315" style="display: block; margin: auto;" src="/Work/papers/SCA2024MultiLayerXPBD.pdf" type="application/pdf" />
+
+#### Github link
+[click here for the code if you missed the two github buttons](https://github.com/AlexandreMercierAubin/MultiLayerSolver2024)
+
+## Bibtex
+```
+TODO
+```
