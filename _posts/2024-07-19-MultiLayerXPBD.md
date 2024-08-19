@@ -19,8 +19,9 @@ Accepted for publication at SCA 2024. Here is the preprint. I will update the pa
 [<img src="/Work/icons/pdf.png" width="25"/>](/Work/papers/SCA2024MultiLayerXPBD.pdf)
 [<img src="/Work/icons/link.png" width="25"/>]()
 [<img src="/Work/icons/github.png" width="25"/>](https://github.com/AlexandreMercierAubin/MultiLayerSolver2024)
+
 ## Full Presentation
-TODO
+<iframe width="560" height="315" style="display: block; margin: auto;" src="https://www.youtube.com/embed/6ajlZ5CFhy8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## Supplemental Video
 <iframe width="560" height="315" style="display: block; margin: auto;" src="https://www.youtube.com/embed/JXlFrHPCJ-0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
