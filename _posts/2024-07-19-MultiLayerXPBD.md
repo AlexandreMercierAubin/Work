@@ -17,7 +17,7 @@ use_math: true
 
 Accepted for publication at SCA 2024. Here is the preprint. I will update the page as we get closer to the conference (August).
 [<img src="/Work/icons/pdf.png" width="25"/>](/Work/papers/SCA2024MultiLayerXPBD.pdf)
-[<img src="/Work/icons/link.png" width="25"/>]()
+[<img src="/Work/icons/link.png" width="25"/>](https://www.doi.org/10.1111/cgf.15186)
 [<img src="/Work/icons/github.png" width="25"/>](https://github.com/AlexandreMercierAubin/MultiLayerSolver2024)
 
 ## Full Presentation
