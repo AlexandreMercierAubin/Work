@@ -42,7 +42,7 @@ Alexandre Mercier-Aubin, and Paul G. Kry
 
 ## Bibtex
 ```
-@article{10.1145/3606932,
+@article{ARDS,
 author = {Mercier-Aubin, Alexandre and Kry, Paul G.},
 title = {Adaptive Rigidification of Discrete Shells},
 year = {2023},
