@@ -37,5 +37,13 @@ Alexandre Mercier-Aubin, and Paul G. Kry
 
 ## Bibtex
 ```
-TODO
+@article{MercierAubin2024,
+journal = {Computer Graphics Forum},
+title = {{A Multi-layer Solver for XPBD}},
+author = {Mercier-Aubin, Alexandre and Kry, Paul G.},
+year = {2024},
+publisher = {The Eurographics Association and John Wiley & Sons Ltd.},
+ISSN = {1467-8659},
+DOI = {10.1111/cgf.15186}
+}
 ```
