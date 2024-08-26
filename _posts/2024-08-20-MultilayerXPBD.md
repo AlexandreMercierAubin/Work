@@ -31,6 +31,10 @@ Alexandre Mercier-Aubin, and Paul G. Kry
 ## Embedded paper
  <embed width="560" height="315" style="display: block; margin: auto;" src="/Work/papers/SCA2024MultiLayerXPBD.pdf" type="application/pdf" />
 
+##Context
+What if we could eliminate the need for an oracle in adaptive rigidification? This paper presents our answer to that question.
+We explored the idea of employing a multigrid-inspired approach to solve for motions accurately, thus removing the necessity to predict deformation in reduced chunks. Initially, we experimented with V-Cycle methods, but the results were not ideal. We found that starting with rigid components and gradually introducing elasticity proved to be highly effective. Because of this, our solver deviates from traditional multigrid methods, as the prolongation (or refinement) operator is seldom used.
+
 #### Github link
 [click here for the code if you missed the two github buttons](https://github.com/AlexandreMercierAubin/MultiLayerSolver2024)
 
