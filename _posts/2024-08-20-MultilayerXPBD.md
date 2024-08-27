@@ -49,7 +49,7 @@ volume = {43},
 number = {8},
 publisher = {The Eurographics Association and John Wiley & Sons Ltd.},
 ISSN = {1467-8659},
-doi = {10.1111/cgf.15186}
+doi = {10.1111/cgf.15186},
 keywords = {XPBD, rigid bodies, soft bodies, multigrid, contact}
 }
 ```
