@@ -7,19 +7,16 @@ description: ""
 baseurl: "/Work"
 github_username: alexandremercieraubin
 url: 'https://alexandremercieraubin.com'
-#logo: "/images/logo.jpg"
 date_format: "%B %-d, %Y"
-#read_time: true
-#words_per_minute: 200
 mathjax:
   enable: true
   combo: "tex-svg"
   tags: "none" # 'ams' automatically label math equations
 google_fonts:
-  - name: "Source Serif Pro"
+  - name: "Source Serif 4"
     weights: "400,400i,700,700i"
-  - name: "Source Sans Pro"
-    weights: "400,400i,700,700i"
+  #- name: "Source Sans Pro"
+  #  weights: "400,400i,700,700i"
 twitter:
   username: "AlexMercierA"
 
@@ -91,7 +88,6 @@ defaults:
 # Site Author
 author:
   name: Alexandre Mercier-Aubin
-  # picture: /images/something.jpg
   twitter: AlexMercierA
   # more icons can be found here: https://fontawesome.com/icons?d=gallery&p=2
   links:

@@ -3,7 +3,7 @@ layout: post
 title: "Adaptive Rigidification of Elastic Solids"
 image: 
   path: /images/2022-08-08-AdaptiveRigidification/teaser_wheel.png
-  thumbnail: /images/2022-08-08-AdaptiveRigidification/representative.jpg
+  thumbnail: /images/2022-08-08-AdaptiveRigidification/teaser_wheel.png
 date: 2022-08-08
 categories:
   - Papers
