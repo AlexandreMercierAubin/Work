@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "A Multi-Layer Solver for XPBD"
-image: /images/2024-08-21-MultiLayerXPBD/TeaserPills.png
+image: 
+  path: /images/2024-08-21-MultiLayerXPBD/TeaserPills.png
 date: 2024-08-20
 categories:
   - Papers

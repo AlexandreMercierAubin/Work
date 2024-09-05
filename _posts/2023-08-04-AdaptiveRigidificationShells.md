@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Adaptive Rigidification of Discrete Shells"
-image: /images/2023-08-04-AdaptiveRigidificationShells/teaser.png
+image: 
+  path: /images/2023-08-04-AdaptiveRigidificationShells/teaser.png
 date: 2023-08-05
 categories:
   - Papers
