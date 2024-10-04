@@ -1,9 +1,18 @@
+404 not found, will try redirecting to proper url and otherwise returns home.
+Will not work without liquid.
+<ul>
+{% for post in site.posts %}  
+	<li>{{ site.url }}{{ post.url }}</li>
+{% endfor %}  
+</ul>
 <script>
-var allposts = [];  
-function redirectToCorrectPage() {  
-	{% for post in site.posts %}  
-		allposts.push("{{ site.url }}{{ post.url }}");  
-	{% endfor %}  
+window.onload = () => {
+	var allposts = [];  
+	var allElements = document.querySelectorAll("ul");
+	for(var i = 0; i < allElements.length; i++){
+		allposts.push(allElements[i].innerHTML); 
+	}
+	
 	var url = window.location.toString();  
 	if (url.slice(-1) === "/") {  
 		 url = url.slice(0, -1);  
@@ -15,7 +24,8 @@ function redirectToCorrectPage() {
 	if (i != -1) {  
 		console.log(allposts[i]);  
 		window.location = allposts[i];  
-	}  
-}  
-window.onload = redirectToCorrectPage;  
+	} else {
+		window.location.replace("https://www.alexandremercieraubin.com/Work/");
+	}	
+};  
 </script>
