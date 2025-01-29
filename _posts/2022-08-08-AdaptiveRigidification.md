@@ -15,6 +15,9 @@ tags:
   - Adaptive Rigidification
 use_math: true
 ---
+
+Why waste resources computing deformation on non-deforming regions? Use our method instead.
+
 **Abstract:** We present a method for reducing the computational cost of elastic solid simulation by treating connected sets of non-deforming elements  as rigid bodies.  Non-deforming elements are identified as those where the strain rate squared Frobenius norm falls below a threshold for several frames. Rigidification uses a breadth first search to identify connected components while avoiding connections that would form hinges between rigid components.  Rigid elements become elastic again when their approximate strain velocity rises above a threshold, which is fast to compute using a single iteration of conjugate gradient with a fixed Laplacian-based incomplete Cholesky preconditioner.  With rigidification, the system size to solve at each time step can be greatly reduced, and if all elastic element become rigid, it reduces to solving the rigid body system.  We demonstrate our results on a variety of 2D and 3D examples, and show that our method is likewise especially beneficial in contact rich examples.
 
 [<img src="/Work/icons/pdf.png" width="25"/>](/Work/papers/SIGGRAPH2022AdaptiveRigidification.pdf)

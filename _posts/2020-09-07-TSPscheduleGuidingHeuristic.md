@@ -14,6 +14,8 @@ tags:
   - Combinatorics
 ---
 
+Warmstart your solve with a faster TSP solution.
+
 **Abstract:** Despite the significant progress made in scheduling in the
 past years, industrial problems with several hundred tasks remain intractable
 for some variants of the scheduling problems. We present techniques
