@@ -1,4 +1,5 @@
 remote_theme: mmistakes/so-simple-theme
+#remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"
 
 locale: en-US
 title: "Contributions"
