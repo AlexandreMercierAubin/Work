@@ -19,6 +19,9 @@ use_math: true
 [<img src="/Work/icons/pdf.png" width="25"/>](/Work/papers/SCA25_TriSDF_ccd.pdf)
 [<img src="/Work/icons/link.png" width="25"/>](https://dl.acm.org/doi/abs/10.1145/3747862)
 
+## Award
+This paper was awarded a best paper honorable mention at SCA 2025.
+
 ## Supplemental Video
 <iframe width="560" height="315" style="display: block; margin: auto;" src="https://www.youtube.com/embed/RMd3nsqH3S4?si=9BPaqtO0vjiLNZ4w" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
