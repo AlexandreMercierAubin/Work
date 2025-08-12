@@ -14,6 +14,8 @@ tags:
   - Signed Distance Field
 use_math: true
 ---
+Real-Time Tri-SDF CCD? See how the we made this all possible in this paper.
+
 **Abstract:** We introduce an efficient solution to the problem of continuous collision detection (CCD) between triangle geometry and signed distance fields (SDFs). We formulate the triangle-SDF collision problem as a novel spatio-temporal local optimization that solves for the first time of impact between a triangle and an SDF isosurface. Our method offers improved robustness over point sampling methods, and outperforms recent triangle-SDF discrete collision detection (DCD) algorithms. Furthermore, a novel method for adaptively refining the potential collision points on large triangles is proposed for robust triangle-SDF collision detection with coarse meshes. This enables the use of reduced geometry for efficient simulations. We demonstrate the benefits of our approach by comparing to state-of-the-art algorithms for triangle-SDF collision detection, and showcase its effectiveness through simulations involving complex collision scenarios.
 
 [<img src="/Work/icons/pdf.png" width="25"/>](/Work/papers/SCA25_TriSDF_ccd.pdf)
