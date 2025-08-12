@@ -10,6 +10,8 @@ tags:
   - Combinatorics
 ---
 
+Workshop on loom scheduling.
+
 In the textile industry, the looms are now automatic, but
 what is left to be automated is the scheduling process. This paper is
 about the scheduling of the looms and workers doing the setup between

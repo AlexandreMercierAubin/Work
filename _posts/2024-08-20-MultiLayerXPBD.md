@@ -15,6 +15,9 @@ tags:
   - Multigrid
 use_math: true
 ---
+
+Want rigidification without the drawbacks of adaptivity? Use this multigrid-like solver.
+
 **Abstract:** We present a novel multi-layer method for extended position-based dynamics that exploits a sequence of reduced models consisting of rigid and elastic parts to speed up convergence. Taking inspiration from concepts like adaptive rigidification and long-range constraints, we automatically generate different rigid bodies at each layer based on the current strain rate. During the solve, the rigid bodies provide coupling between progressively less distant vertices during layer iterations, and therefore the fully elastic iterations at the final layer start from a lower residual error. Our layered approach likewise helps with the treatment of contact, where the mixed solves of both rigid and elastic in the layers permit fast propagation of impacts. We show several experiments that guide the selection of parameters of the solver, including the number of layers, the iterations per layers, as well as the choice of rigid patterns. Overall, our results show lower compute times for achieving a desired residual reduction across a variety of simulation models and scenarios.
 
 [<img src="/Work/icons/pdf.png" width="25"/>](/Work/papers/SCA2024MultiLayerXPBD.pdf)
@@ -49,9 +52,13 @@ author = {Mercier-Aubin, Alexandre and Kry, Paul G.},
 year = {2024},
 volume = {43},
 number = {8},
+address = {Goslar, DEU},
 publisher = {The Eurographics Association and John Wiley & Sons Ltd.},
+numpages = {11},
+keywords = {XPBD, rigid bodies, soft bodies, multigrid, contact},
+location = {Montreal, Quebec, Canada},
+series = {SCA '24}
 ISSN = {1467-8659},
-doi = {10.1111/cgf.15186},
-keywords = {XPBD, rigid bodies, soft bodies, multigrid, contact}
+doi = {10.1111/cgf.15186}
 }
 ```
