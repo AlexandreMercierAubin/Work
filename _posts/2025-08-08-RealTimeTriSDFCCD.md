@@ -2,8 +2,8 @@
 layout: post
 title: "Real-Time Triangle-SDF Continuous Collision Detection"
 image: 
-  path: /images/SCA2025ShurikenTeaser.png
-  thumbnail: /images/SCA2025ShurikenTeaser.png
+  path: /images/2025-08-08-RealTimeTriSDFCCD/SCA2025ShurikenTeaser.png
+  thumbnail: /images/2025-08-08-RealTimeTriSDFCCD/SCA2025ShurikenTeaser.png
 date: 2025-08-08
 categories:
   - Papers
@@ -23,6 +23,7 @@ Real-Time Tri-SDF CCD? See how the we made this all possible in this paper.
 
 ## Award
 This paper was awarded a best paper honorable mention at SCA 2025.
+![image info](/Work/images/2025-08-08-RealTimeTriSDFCCD/bestpaperhonorablemention.jpg)
 
 ## Supplemental Video
 <iframe width="560" height="315" style="display: block; margin: auto;" src="https://www.youtube.com/embed/RMd3nsqH3S4?si=9BPaqtO0vjiLNZ4w" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
