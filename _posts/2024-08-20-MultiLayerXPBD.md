@@ -57,7 +57,7 @@ publisher = {The Eurographics Association and John Wiley & Sons Ltd.},
 numpages = {11},
 keywords = {XPBD, rigid bodies, soft bodies, multigrid, contact},
 location = {Montreal, Quebec, Canada},
-series = {SCA '24}
+series = {SCA '24},
 ISSN = {1467-8659},
 doi = {10.1111/cgf.15186}
 }
